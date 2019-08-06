@@ -1,0 +1,36 @@
+.ColumnView {
+  border: solid black 1px;
+  flex: 1 0 400px;
+  transform: rotateX(180deg);
+}
+
+.column-header {
+  margin-top: 15px;
+}
+
+.form-control {
+  text-align: center;
+  height: 25px;
+}
+
+.increase-height {
+  height: 31px;
+  margin-right: 15px;
+  width: 75px;
+}
+.scrollable {
+  margin-top: 15px;
+  display: flex;
+}
+
+.no-tweets {
+  margin: 10px;
+}
+
+.test {
+  height: 33px;
+  width: 75px;
+}
+.align {
+  margin-left: 10px;
+}

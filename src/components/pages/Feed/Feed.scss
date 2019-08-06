@@ -1,0 +1,16 @@
+.mainlayout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.columnLayout {
+  display: flex;
+  flex-wrap: nowrap;
+  position: relative;
+  flex: 1 1 auto;
+  overflow-x: scroll;
+  transform: rotateX(180deg);
+  overflow-y: hidden;
+}

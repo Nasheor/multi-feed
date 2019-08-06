@@ -1,0 +1,21 @@
+.header {
+  display: inline-flex;
+  flex: 1 1 auto;
+  width: 100%;
+  padding-left: 45%;
+
+  input {
+    width: 5%;
+    margin-left: 10px;
+  }
+}
+
+.line {
+  height: 47px;
+  border-bottom: 3px solid black;
+  position: absolute;
+}
+
+.disappear {
+  color: white;
+}
