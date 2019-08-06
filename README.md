@@ -19,7 +19,13 @@ Once you've retrieved your Bearer token do the following
 3. Now navigate to `index.vue` in `.src/components/sections/BoardColumn`
 4. Uncomment line 6 and run the app
 
-> A Vue.js project
+## Technical information
+
+1. **Language** : `NodeJS ES6`
+
+2. **Framework**: `vue`, `vuex`
+
+3. **Package manager**: `npm`
 
 ## Build Setup
 
