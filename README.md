@@ -5,7 +5,7 @@
 ###### Sandbox Link
 https://5wq8kk63l.csb.app/
 
-A small fun project which can retrieve tweets posted by a user in Twitter f9r the last 30 day period and display it in a column feed.
+A small fun project which can retrieve tweets posted by a user in Twitter for the last 30 day period and display it in a column feed.
 
 This web application can also retrieve any Spotify artist's top 10 tracks. I have limited this application's features for the moment being to obtain only tweets from twitter. The reason for this is that the authorization code used to verify that a client does access the Spotify API privilege is refreshed every few hours and the authorization code may have expired at the time a user uses this application.
 
